@@ -1,2 +1,2 @@
 # DSA-practice
-Since, I m a beginner so instead of direct jumping to coding platforms I decides to practice some questions here and then move to coding platforms.
+Adding some relevent questions all at one place for future use and as a practice also.
